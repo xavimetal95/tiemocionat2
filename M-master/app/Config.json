@@ -1,0 +1,14 @@
+{
+	"dbconf":{
+		"driver":"mysql",
+		"dbname":"ticemocionat2_mydb",
+		"dbhost":"92.222.38.97",
+		"dbuser":"ticemocionat2_t",
+		"dbpass":"19E7aWzMTS"
+	},
+	"app":{
+		"title":"Tic Emocionat",
+		"version":"0.1"
+	}
+
+}
